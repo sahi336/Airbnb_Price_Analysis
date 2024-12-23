@@ -51,10 +51,7 @@ Using **Python** for Exploratory Data Analysis (EDA) and **Power BI** for visual
   - Visualizations (e.g., price distribution, room type vs revenue).
 
 ### **Power BI Dashboard**
-- `airbnb_sales_dashboard.pbix`: Interactive Power BI dashboard with:
-  - Key Performance Indicators (KPIs).
-  - Room type vs revenue insights.
-  - Guest satisfaction and geographical pricing trends.
+- `airbnb_sales_dashboard.pbix`: Interactive Power BI dashboard 
 
 ---
 
